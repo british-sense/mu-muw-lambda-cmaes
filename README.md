@@ -23,6 +23,6 @@ https://hal.inria.fr/hal-01297037/file/tutorial.pdf
 
 実験結果
 
-![rosenbrock](https://github.com/ko-cha/CMA-ES/blob/master/img/frosen.png "rosenbrock")
+![rosenbrock](https://github.com/ko-cha/mu-muw-lambda-cmaes/tree/master/img/frosen.png "rosenbrock")
 
 20次元でのrosenbockにおいて最適解を得ることができました.

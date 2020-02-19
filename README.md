@@ -4,6 +4,10 @@
 C++における(*μ*/*μ*<sub>W</sub>, *λ*)-CMA-ESの実装です.
 実装したCMA-ESは以下の論文のものです.
 
+This code implements CMA-ES using C++. 
+CMA-ES version is (*μ*/*μ*<sub>W</sub>, *λ*)-CMA-ES.  
+The paper of implemented CMA-ES is below:  
+
 
 The CMA Evolution Strategy: A Tutorial
 
